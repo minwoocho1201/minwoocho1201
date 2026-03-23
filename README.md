@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm head of data scientist @business-canvas. 
 
 <!--
 **minwoocho1201/minwoocho1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
